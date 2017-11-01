@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class ProgramEmailGenerator {
 	
-	
+	// This program is used to generate the text for Email Announcements to my Hall I am in charge of as a Resident Assistant.
 	private String eventName = "Frisbee Game";
 	private String eventDay = "Tuesday";
 	private String eventTime = "3PM";
